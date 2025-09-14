@@ -1,0 +1,9 @@
+buka terminal, ketik 
+
+python -m venv .venv (membuat folder .venv)
+
+.venv\Scripts\activate (tinggal pake command ini kalo udh ada folder venvnya)
+
+pip install -r requirements.txt
+
+run all ipynb
