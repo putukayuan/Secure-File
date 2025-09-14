@@ -363,4 +363,6 @@ st.write(
 
 if st.button("🔚 Keluar"):
     st.success("Sampai jumpa")
-    st.link_button('https://www.google.com/?hl=id')
+    st.link_button("Kembali ke Google", "https://www.google.com/?hl=id")
+
+
